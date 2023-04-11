@@ -4,8 +4,7 @@
 Having a bad day , check out flutter magic_bg app to ligthen app your mood, if the magical color  changes and effects 😮  on the app doesnt do the trick  , then i dont know what would
 
 
-![app screenshot](./app-img.jpg)
-
+<img src="./app-img.jpg" height="200">
 
 This is a simple Flutter app that changes the background color when the user taps on the screen. It is built using the Flutter framework and can be easily run on both iOS and Android devices.
 
