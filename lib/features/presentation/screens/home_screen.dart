@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    "Welcome to Magic Bg",
+                    "Hello there",
                     style: TextStyle(
                       fontSize:
                           Theme.of(context).textTheme.headlineMedium?.fontSize,
